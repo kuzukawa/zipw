@@ -19,6 +19,11 @@ Or install it yourself as:
 
     $ gem install zipw
 
+Or use specific_install
+
+    $ gem install specific_install
+    $ gem specific_install -l https://github.com/kuzukawa/zipw.git
+
 ## Usage
 
 ```shell
