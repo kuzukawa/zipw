@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+# zipw - Zip file Generator works with Japanese file name.
+require 'zip'
+require 'zipw'
+
+ZipW::CLI.start
